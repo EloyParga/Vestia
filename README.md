@@ -1,6 +1,6 @@
 # Vestia
 
-Aplicación creada y desarrollada por **Eloy**.
+Aplicación creada y desarrollada por **Eloy Parga**.
 
 © 2026 Eloy. All Rights Reserved.
 
