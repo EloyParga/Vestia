@@ -1,5 +1,9 @@
 # Vestia
 
+Aplicación creada y desarrollada por **Eloy**.
+
+© 2026 Eloy. All Rights Reserved.
+
 ## 🔒 License & Usage
 
 Copyright © 2026 Eloy. All Rights Reserved.
